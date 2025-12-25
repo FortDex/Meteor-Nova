@@ -1,2 +1,2 @@
 # Meteor-Nova
-This is an addon for 6b6t that focuses on CPVP in particular 1.21.5~
+This is a Meteor Client addon for 6b6t that focuses on cpvp in particular 1.21.5~
